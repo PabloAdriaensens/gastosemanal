@@ -61,6 +61,8 @@ class App extends Component {
         // lo restamos
         restante -= restar;
 
+        restante = String(restante);
+
         // Agregamos el nuevo state
         this.setState({
             restante
