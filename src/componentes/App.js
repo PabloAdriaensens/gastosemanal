@@ -41,7 +41,9 @@ class App extends Component {
                             />
                         </div>
                         <div className="one-half column">
-                            <Listado/>
+                            <Listado
+                                gastos={this.state.gastos}
+                            />
                         </div>
                     </div>
                 </div>
