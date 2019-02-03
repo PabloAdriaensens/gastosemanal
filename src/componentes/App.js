@@ -9,6 +9,17 @@ class App extends Component {
                 <Header
                     titulo='Gasto Semanal'
                 />
+
+                <div className="contenido-principal contenido">
+                    <div className="row">
+                        <div className="one-half column">
+
+                        </div>
+                        <div className="one-half column">
+
+                        </div>
+                    </div>
+                </div>
             </div>
         );
     }
