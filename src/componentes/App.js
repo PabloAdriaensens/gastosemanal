@@ -28,7 +28,7 @@ class App extends Component {
                 restante: presupuesto
             })
         } else {
-            // hasta que no halla un prespuesto válido no dejará continuar
+            // hasta que no halla un presupuesto válido no dejará continuar
             this.obtenerPrespuesto();
         }
     };
