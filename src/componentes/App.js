@@ -9,19 +9,20 @@ class App extends Component {
         presupuesto: '',
         restante: '',
         gastos: {}
-    }
+    };
 
     // Agregar un nuevo gasto al state
-    agregarGasto = gast => {
+    agregarGasto = gasto => {
         // Tomar una copia del state actual
         const gastos = {...this.state.gastos};
 
-        console.log('Se agregó el gasto' + gastos);
-        console.log(gastos);
-
         // Agregar al gasto al objeto del state
+        gastos[`gasto${Date.now()}`] = gasto;
 
         // Ponerlo en state
+        this.setState({
+            gastos: gastos
+        })
     };
 
     render() {
