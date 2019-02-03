@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac5bdcc0-2207-41d9-9cf5-7121bb46acd9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/componentes/Listado.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componentes/Listado.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/componentes/Gasto.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componentes/Gasto.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/componentes/Listado.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -41,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/componentes/Gasto.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="165">
+              <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -97,8 +97,8 @@
         <option value="$PROJECT_DIR$/src/componentes/Header.js" />
         <option value="$PROJECT_DIR$/src/componentes/App.js" />
         <option value="$PROJECT_DIR$/src/componentes/Formulario.js" />
-        <option value="$PROJECT_DIR$/src/componentes/Gasto.js" />
         <option value="$PROJECT_DIR$/src/componentes/Listado.js" />
+        <option value="$PROJECT_DIR$/src/componentes/Gasto.js" />
       </list>
     </option>
   </component>
@@ -180,12 +180,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549186148114</updated>
-      <workItem from="1549186149289" duration="4193000" />
+      <workItem from="1549186149289" duration="4921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4193000" />
+    <option name="totallyTimeSpent" value="4921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="800" extended-state="6" />
@@ -251,13 +251,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/componentes/Gasto.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/componentes/Listado.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -265,6 +258,13 @@
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/componentes/Gasto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
         </state>
       </provider>
     </entry>
